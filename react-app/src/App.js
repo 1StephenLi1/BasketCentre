@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Welcome to BasketCentre! A world full of basketball news and topics!
+            Welcome to BasketCentre! A world full of basketball news and topics! Jerry
           </p>
           <a
             className="App-link"
